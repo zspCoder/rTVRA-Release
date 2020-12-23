@@ -22,19 +22,19 @@ In case you need to use our data and code, please cite the following two papers.
 @article{zhang2018fast,
   title={Fast parallel implementation of dual-camera compressive hyperspectral imaging system},<br/>
   author={Zhang, Shipeng and Huang, Hua and Fu, Ying},<br/>
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  volume={29},
-  number={11},
-  pages={3404--3414},
-  year={2018}
-}
-
-@article{wang2015dual,
-  title={Dual-camera design for coded aperture snapshot spectral imaging},
-  author={Wang, Lizhi and Xiong, Zhiwei and Gao, Dahua and Shi, Guangming and Wu, Feng},
-  journal={Applied Optics},
-  volume={54},
-  number={4},
-  pages={848--858},
-  year={2015}
-}
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},<br/>
+  volume={29},<br/>
+  number={11},<br/>
+  pages={3404--3414},<br/>
+  year={2018}<br/>
+}<br/>
+<br/>
+@article{wang2015dual,<br/>
+  title={Dual-camera design for coded aperture snapshot spectral imaging},<br/>
+  author={Wang, Lizhi and Xiong, Zhiwei and Gao, Dahua and Shi, Guangming and Wu, Feng},<br/>
+  journal={Applied Optics},<br/>
+  volume={54},<br/>
+  number={4},<br/>
+  pages={848--858},<br/>
+  year={2015}<br/>
+}<br/>
