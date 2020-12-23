@@ -1,6 +1,6 @@
 # rTVRA-Release
 
-Source code of **rTVRA** for hyperspectral image reconstruction on dual-camera compressive hyperspectral imaging system (DCCHI)
+Source code of **rTVRA** for hyperspectral image reconstruction on dual-camera compressive hyperspectral imaging system (**DCCHI**)
 This repository contains the source code for the paper: **Shipeng Zhang, Hua Huang, and Ying Fu. Fast parallel implementation of dual-camera compressive hyperspectral imaging system. IEEE Transactions on Circuits and Systems for Video Technology, 2018, 29(11): 3404-3414.**
 
 ## Data
