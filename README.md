@@ -13,15 +13,18 @@ We provide the real captured data on our own hardware implementation of the dual
 2. The demo for the real hyperspectral image reconstruction.
 >Demo_Image.m 
 
-3. Code of the rTVRA algorithm
+3. Code of the rTVRA algorithm.
 >rTVRA.m 
 
 ## Citation
 In case you need to use our data and code, please cite the following two papers.
 
 @article{zhang2018fast,
+
   title={Fast parallel implementation of dual-camera compressive hyperspectral imaging system},
+  
   author={Zhang, Shipeng and Huang, Hua and Fu, Ying},
+  
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   volume={29},
   number={11},
