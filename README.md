@@ -19,7 +19,7 @@ We provide the real captured data on our own hardware implementation of the dual
 ## Citation
 In case you need to use our data and code, please cite the following two papers.
 
-@article{zhang2018fast,
+@article{zhang2018fast,<br/>
   title={Fast parallel implementation of dual-camera compressive hyperspectral imaging system},<br/>
   author={Zhang, Shipeng and Huang, Hua and Fu, Ying},<br/>
   journal={IEEE Transactions on Circuits and Systems for Video Technology},<br/>
